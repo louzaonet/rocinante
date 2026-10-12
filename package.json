@@ -18,7 +18,7 @@
     "test": "node test/run.mjs && node test/screens.mjs && node test/roundtrip.mjs && node test/project.mjs && node test/vecops.mjs && node test/pieces.mjs && node test/taperead.mjs && node test/cpc.mjs >/dev/null && node test/c64.mjs >/dev/null && node test/m68k.mjs >/dev/null && node test/dos.mjs >/dev/null && node test/msx.mjs >/dev/null && node test/classic.mjs >/dev/null && node test/import16.mjs >/dev/null && node tools/i18n-check.mjs"
   },
   "devDependencies": {
-    "esbuild": "^0.24.0"
+    "esbuild": "^0.28.1"
   },
   "dependencies": {
     "preact": "^10.24.3"
