@@ -1,0 +1,104 @@
+Intro.Pulsa una tecla para continuar.{key}Una biblioteca polvorienta.
+También puedo ver:
+Un libro viejo
+Unas botas
+Un saco
+Un libro nuevo
+
+>«mirar»
+Una biblioteca polvorienta.
+También puedo ver:
+Un libro viejo
+Unas botas
+Un saco
+Un libro nuevo
+
+>«i»
+Llevo:
+El mapa
+Llevo puesto:Unos guantes. Están rotos
+
+>«coger libro»
+He cogido el libro viejo.
+>«coger libro nuevo»
+He cogido el libro nuevo.
+>«i»
+Llevo:
+Un libro viejo
+El mapa
+Un libro nuevo
+Llevo puesto:Unos guantes. Están rotos
+
+>«coger todo»
+He cogido las botas.No puedo llevar nada más.
+>«i»
+Llevo:
+Un libro viejo
+Unas botas
+El mapa
+Un libro nuevo
+Llevo puesto:Unos guantes. Están rotos
+
+>«dejar todo»
+He dejado el libro viejo.He dejado las botas.He dejado El mapa.He dejado el libro nuevo.
+>«mirar»
+Una biblioteca polvorienta.
+También puedo ver:
+Un libro viejo
+Unas botas
+Un saco
+El mapa
+Un libro nuevo
+
+Hay más...{key}>«coger botas»
+He cogido las botas.
+>«poner botas»
+Me he puesto las botas.
+>«i»
+Llevo:
+Nada.Llevo puesto:Unas botas
+Unos guantes. Están rotos
+
+>«quitar botas»
+Me he quitado las botas.
+>«quitar guantes»
+Me he quitado los guantes.
+>«coger saco»
+He cogido el saco.
+>«meter mapa»
+No tengo El mapa.
+>«sacar moneda»
+He cogido la moneda de oro.
+>«sacar moneda»
+Ya tengo la moneda de oro.
+>«ex mapa»
+Ves El mapa y El mapa te mira.
+Ref: El mapa.
+Ref: El mapa.
+
+>«ex guantes»
+Ves los guantes y Los guantes te mira.
+Ref: los guantes.
+Ref: Los guantes.
+
+>«ex libro viejo»
+Ves el libro viejo y El libro viejo te mira.
+Ref: el libro viejo.
+Ref: El libro viejo.
+
+>«coger linterna»
+Aquí no hay nada de eso.
+>«dejar saco»
+He dejado el saco.
+>«coger todo»
+He cogido el libro viejo.No puedo llevar nada más.
+>«coger todo»
+No puedo llevar nada más.
+>«i»
+Llevo:
+Un libro viejo
+Unas botas
+Una moneda de oro
+Unos guantes. Están rotos
+Llevo puesto:Nada.
+>

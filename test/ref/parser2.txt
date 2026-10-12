@@ -1,0 +1,167 @@
+Introducción.Pulsa una tecla para continuar.{key}Una habitación vacía.
+
+>«cielo»
+LS=39 39 255 255 255 255
+
+>«mar»
+LS=255 40 255 255 255 255
+
+>«rio»
+LS=255 45 255 255 255 255
+
+>«bosque»
+LS=255 49 255 255 255 255
+
+>«lago»
+LS=255 50 255 255 255 255
+
+>«ex lago»
+LS=30 50 255 255 50 255
+
+>«puerta»
+LS=255 102 255 255 50 255
+
+>«ex cielo»
+LS=30 39 255 255 50 255
+
+>«abrir puerta»
+LS=40 102 255 255 102 255
+
+>«llave dorada»
+LS=255 101 10 255 102 255
+
+>«abrir»
+LS=40 255 255 255 102 255
+
+>«coger moneda y llave»
+LS=20 104 255 255 104 255
+LS=20 101 255 255 104 255
+
+>«coger moneda, puerta»
+LS=20 104 255 255 104 255
+LS=20 102 255 255 104 255
+
+>«coger moneda. llave»
+LS=20 104 255 255 104 255
+LS=20 101 255 255 104 255
+
+>«coger moneda y n»
+LS=20 104 255 255 104 255
+LS=2 2 255 255 104 255
+
+>«coger moneda y abrir puerta»
+LS=20 104 255 255 104 255
+LS=40 102 255 255 102 255
+
+>«coger moneda y lo»
+LS=20 104 255 255 104 255
+LS=20 104 255 255 104 255
+
+>«coger moneda y examinalo»
+LS=20 104 255 255 104 255
+LS=30 104 255 255 104 255
+
+>«ex moneda con llave dorada»
+LS=30 104 255 101 104 255
+
+>«ex dorada llave»
+LS=30 101 255 255 101 255
+
+>«ex llave llave»
+LS=30 101 255 101 101 255
+
+>«ex con llave»
+LS=30 101 255 255 101 255
+
+>«mira»
+LS=24 255 255 255 101 255
+
+>«miralo»
+No he entendido nada.
+>«miralos»
+No he entendido nada.
+>«abrirlo»
+LS=40 101 255 255 101 255
+
+>«abrirla»
+LS=40 101 255 255 101 255
+
+>«abrirle»
+LS=40 255 255 255 101 255
+
+>«abrirlas»
+LS=40 101 255 255 101 255
+
+>«examinadlo»
+LS=30 101 255 255 101 255
+
+>«ex. llave»
+LS=30 255 255 255 101 255
+LS=30 101 255 255 101 255
+
+>«ex,llave»
+LS=30 255 255 255 101 255
+LS=30 101 255 255 101 255
+
+>«coger moneda y y llave»
+LS=20 104 255 255 104 255
+No he entendido nada.
+>«coger moneda and llave»
+LS=20 104 255 101 104 255
+
+>«»«   »
+No he entendido nada.
+>«moneda»
+LS=255 104 255 255 104 255
+
+>«ex llave.»
+LS=30 101 255 255 101 255
+
+>«ex llave y»
+LS=30 101 255 255 101 255
+
+>«ex llave, »
+LS=30 101 255 255 101 255
+
+>«. ex llave»
+LS=30 101 255 255 101 255
+
+>«ex llave..»
+LS=30 101 255 255 101 255
+
+>«ex llave .. ex puerta»
+LS=30 101 255 255 101 255
+LS=30 102 255 255 102 255
+
+>«ex llave y . ex puerta»
+LS=30 101 255 255 101 255
+LS=30 102 255 255 102 255
+
+>«xyzzy y ex llave»
+No he entendido nada.
+>«ex llave y xyzzy y ex puerta»
+LS=30 101 255 255 101 255
+No he entendido nada.
+>«ex llave "hola" y ex puerta»
+LS=30 101 255 255 101 255
+LS=30 102 255 255 102 255
+
+>«ex "hola. adios" puerta»
+LS=30 102 255 255 102 255
+
+>«ex llave "sin cerrar»
+No he entendido nada.
+>«ex llave; ex puerta: ex moneda! ex llave? ex puerta»
+LS=30 101 255 255 101 255
+LS=30 102 255 255 102 255
+LS=30 104 255 255 104 255
+LS=30 101 255 255 101 255
+LS=30 102 255 255 102 255
+
+>«EX LLAVE»
+LS=30 101 255 255 101 255
+
+>«Ex LlAvE»
+LS=30 101 255 255 101 255
+
+>

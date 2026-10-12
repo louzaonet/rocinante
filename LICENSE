@@ -1,0 +1,110 @@
+Rocinante, a text adventure editor for DAAD
+Copyright (C) 2026 Jorge Louzao Penalva
+
+Rocinante is distributed under two licences:
+
+  * The editor is free software: you can redistribute it and/or modify it
+    under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or (at
+    your option) any later version (SPDX: AGPL-3.0-or-later). Full text in
+    LICENSES/AGPL-3.0-or-later.txt.
+
+  * Everything that Rocinante puts inside the games it produces is under the
+    MIT No Attribution licence (SPDX: MIT-0), so that each author can
+    distribute their game under whatever terms they like, sold or free,
+    open or closed, with no notice to keep. Full text in LICENSES/MIT-0.txt.
+
+Games made with Rocinante belong to their authors. Rocinante claims nothing
+over a game's texts, pictures or logic.
+
+Unless stated otherwise, every file in this repository is under the AGPL.
+The following are under MIT-0, because they end up inside exported games
+(each one says so in its first line, except page.html and screen.css,
+which are copied as they are into every exported web page):
+
+  src/player/              the web player of exported games (main.js, run.js,
+                           page.html, screen.css)
+  src/daad/engine.js       the DAAD engine in JavaScript
+  src/daad/condacts.js     the condact table it uses
+  src/spectrum/daadscreen.js, src/spectrum/screen-io.js
+                           the Spectrum text screen
+  src/web/view.js, src/web/web-io.js
+                           the screen and keyboard in the browser
+  src/gfx/drawstring.js    vector pictures
+  z80/                     the Z80 routines: memory banks and pictures
+                           (xbank), tape loader (tapload) and MSX cartridge
+                           start-up (msxcart, msxmover, msxhooks), and the
+                           files assembled from them: src/daad/xbank-bin.js,
+                           src/spectrum/tapload-bin.js, src/msx/msxload-bin.js
+
+Besides those files, MIT-0 also covers every other piece of Rocinante as it
+appears in a saved project or an exported game: the contents of the new-game
+templates (vocabulary, system messages, processes), the loaders, BASIC
+lines, boot blocks and configuration files the exporters write (for example
+the Amiga boot block and Startup-Sequence, the Atari ST DESKTOP.INF, the PC
+batch file and its instructions), and the changes Rocinante makes to the
+character sets.
+
+If you modify the editor and let other people use it over a network, the
+AGPL asks you to offer them the source code of your version (section 13).
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the licence texts for details.
+
+---------------------------------------------------------------------------
+Third-party material
+
+The Spectrum snapshots that Rocinante exports embed the DAAD interpreters for
+the ZX Spectrum (DS48IS, Spanish version, and DS48IE, English version) by
+Infinite Imaginations / Aventuras AD, which were released into the public
+domain, together with the PART1.SDG character set from the same release. They
+are stored in src/spectrum/daadbase.js, src/spectrum/charset-default.js and
+ref/. They are not covered by Rocinante's licences.
+
+In the same way, the Amstrad CPC exports embed the public domain DAAD
+interpreters for the CPC (DCPCIS, Spanish, and DCPCIE, English) and the
+character set of their empty graphics database (GFX.BIN), taken from
+github.com/daad-adventure-writer/DAAD. They are stored in src/cpc/cpcbase.js
+and ref/cpc/. They are not covered by Rocinante's licences either.
+
+The Commodore 64 exports embed, likewise, the public domain DAAD loader
+(boot.prg), the C64 interpreters (SDI64, Spanish, and EDI64, English) and the
+character set of their graphics database (apart1.prg), from the same
+repository. They are stored in src/c64/c64base.js and ref/c64/ and are not
+covered by Rocinante's licences.
+
+The MSX exports embed the public domain DAAD interpreters for the MSX
+(MSXSDI.Z80, Spanish, and MSXEDI.Z80, English), from the same repository,
+started by Rocinante's own cartridge loader (z80/msxcart.asm, MIT-0). They are
+stored in src/msx/msxbase.js and ref/msx/ and are not covered by Rocinante's
+licences.
+
+The PC exports embed the public domain DAAD interpreters for MS-DOS
+(INTSM1.EXE, Spanish, and INTEM1.EXE, English), from the same repository.
+They are stored in src/dos/dosbase.js and ref/dos/ and are not covered by
+Rocinante's licences.
+
+The Atari ST and Amiga exports embed the public domain DAAD interpreters for
+those machines (SDI1.PRG and EDI1.PRG for the ST, sdi1 and edi1 for the
+Amiga, Spanish and English) and the 128-byte header of their character set
+file (PART1.CHR), from the same repository. They are stored in
+src/m68k/m68kbase.js, ref/atari/ and ref/amiga/ and are not covered by
+Rocinante's licences.
+
+No ROM of any machine is included. The emulator tests download the Amstrad
+ROMs (tools/setup-cpc.sh), the Commodore ROMs (tools/setup-c64.sh) and
+EmuTOS (tools/setup-atari.sh, GPL) separately; the MSX test uses C-BIOS
+(free software, installed with the emulator). The Amiga test needs a
+Kickstart 1.3 ROM that each developer must supply.
+
+test/blank_es.dsf and test/blank_en.dsf are the DAAD blank database templates
+(based on the original BLANK.SCE by Tim Gilberts and Andrés Samudio), as
+distributed with DRC. They are only used as input to build test cases.
+
+Preact (MIT, copyright Jason Miller) is bundled into the editor,
+dist/rocinante.html, which carries its notice; the full text is in
+LICENSES/Preact-MIT.txt. It is not part of exported games.
+
+No code from DRC/DRB (GPL) is included. DRC was only used locally to build
+test databases during development.

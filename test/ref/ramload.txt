@@ -1,0 +1,20 @@
+PRUEBA
+
+Una aventura escrita con Rocinante.
+Pulsa una tecla.{key}Estás en una habitación vacía. Hay una puerta al norte.
+
+>«probar»
+No puedo hacer eso.
+
+>«memori»
+guardado en memoria.
+
+>«probar»
+RAMLOAD ha seguido.
+
+>«n»
+Un pasillo largo y oscuro. La habitación queda al sur.
+También hay aquí:
+Una linterna.
+
+>

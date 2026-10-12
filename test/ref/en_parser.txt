@@ -1,0 +1,249 @@
+Introducción.Press any key to continue.
+{key}Una habitación vacía.
+
+What now?
+>«get key»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get the key»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get it»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«getit»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«take golden key»
+LS=20 101 10 255 255 255 255 101 10
+I can't do that.
+
+What now?
+>«get red key»
+LS=20 101 11 255 255 255 255 101 11
+I can't do that.
+
+What now?
+>«open door with key»
+LS=40 102 255 255 255 101 255 102 255
+
+What now?
+>«open the door with the golden key»
+LS=40 102 255 255 255 101 10 102 255
+
+What now?
+>«get key and open door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get key then open door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get key. open door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get key, door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«quick get key»
+LS=20 101 255 2 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get key quickly»
+LS=20 101 255 2 255 255 255 101 255
+I can't do that.
+
+What now?
+>«n»
+LS=2 2 255 255 255 255 255 101 255
+
+What now?
+>«north»
+LS=2 2 255 255 255 255 255 101 255
+
+What now?
+>«go north»
+LS=43 2 255 255 255 255 255 101 255
+
+What now?
+>«go to the north»
+LS=43 2 255 255 2 255 255 101 255
+
+What now?
+>«key»
+LS=255 101 255 255 255 255 255 101 255
+
+What now?
+>«golden»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«xyzzy»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«examine it»
+LS=30 101 255 255 255 255 255 101 255
+Una habitación vacía.
+
+What now?
+>«give the coin to john»
+LS=41 104 255 255 2 40 255 104 255
+
+What now?
+>«give coin»
+LS=41 104 255 255 255 255 255 104 255
+
+What now?
+>«tell john "open door"»
+LS=42 40 255 255 255 255 255 104 255
+
+What now?
+>«tell john "xyzzy"»
+LS=42 40 255 255 255 255 255 102 255
+John does not understand.
+
+What now?
+>«get key and coin»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get all except the coin»
+LS=20 20 255 255 13 104 255 104 255
+I can't do that.
+
+What now?
+>«i»
+LS=14 14 255 255 255 255 255 104 255
+I have with me:
+Nothing.
+I am wearing:
+Nothing.
+
+What now?
+>«get»
+LS=20 255 255 255 255 255 255 104 255
+There isn't one of those here.
+What now?
+>«GET KEY»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«Get Key golden»
+LS=20 101 255 255 255 255 10 101 255
+I can't do that.
+
+What now?
+>«open»
+LS=40 255 255 255 255 255 255 101 255
+
+What now?
+>«door»
+LS=255 102 255 255 255 255 255 101 255
+
+What now?
+>«x them»
+LS=30 101 255 255 255 255 255 101 255
+Una habitación vacía.
+
+What now?
+>«examinelo»
+LS=30 255 255 255 255 255 255 101 255
+Una habitación vacía.
+
+What now?
+>«opendoor»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«getla»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«open it and x it»
+LS=40 101 255 255 255 255 255 101 255
+LS=30 101 255 255 255 255 255 101 255
+Una habitación vacía.
+
+What now?
+>«get key and and door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«get key; x door: x coin! x key? x door»
+LS=20 101 255 255 255 255 255 101 255
+I can't do that.
+
+What now?
+>«x key "hello. bye" door»
+LS=30 101 255 255 255 102 255 101 255
+Una habitación vacía.
+
+What now?
+>«x key "unterminated»
+
+I was not able to understand any of that.  Please try again.
+What now?
+>«get red golden key»
+LS=20 101 11 255 255 255 255 101 11
+I can't do that.
+
+What now?
+>«get golden key red»
+LS=20 101 10 255 255 255 11 101 10
+I can't do that.
+
+What now?
+>«golden key»
+LS=255 101 10 255 255 255 255 101 10
+
+What now?
+>«get golden»
+LS=20 255 10 255 255 255 255 101 10
+There isn't one of those here.
+What now?
+>«get golden it»
+LS=20 101 10 255 255 255 255 101 10
+I can't do that.
+
+What now?
+>«x golden key with red door»
+LS=30 101 10 255 255 102 11 101 10
+Una habitación vacía.
+
+What now?
+>«get red it»
+LS=20 101 10 255 255 255 255 101 10
+I can't do that.
+
+What now?
+>«»«q»
+LS=25 255 255 255 255 255 255 101 10
+Are you sure? 
+>«n»
+
+What now?
+>«q»
+LS=25 255 255 255 255 255 255 101 10
+Are you sure? 
+>«y»
+Would you like another go? 
+>

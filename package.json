@@ -1,0 +1,26 @@
+{
+  "name": "rocinante",
+  "version": "1.0.0",
+  "description": "Rocinante, a text adventure editor for DAAD that runs in the browser: imports classic DAAD and PAW games and exports to the web, ZX Spectrum, Amstrad CPC, Commodore 64, MSX, PC (DOS), Atari ST and Amiga",
+  "license": "AGPL-3.0-or-later AND MIT-0",
+  "homepage": "https://github.com/louzaonet/rocinante",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louzaonet/rocinante.git"
+  },
+  "bugs": {
+    "url": "https://github.com/louzaonet/rocinante/issues"
+  },
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "test": "node test/run.mjs && node test/screens.mjs && node test/roundtrip.mjs && node test/project.mjs && node test/vecops.mjs && node test/pieces.mjs && node test/taperead.mjs && node test/cpc.mjs >/dev/null && node test/c64.mjs >/dev/null && node test/m68k.mjs >/dev/null && node test/dos.mjs >/dev/null && node test/msx.mjs >/dev/null && node test/classic.mjs >/dev/null && node test/import16.mjs >/dev/null && node tools/i18n-check.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  },
+  "dependencies": {
+    "preact": "^10.24.3"
+  }
+}

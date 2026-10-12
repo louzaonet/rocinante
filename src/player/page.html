@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="__LANG__">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<style>
+:root { --paper: #eef2f5; --grid: #d6e0e9; --ink: #1f3a68; --pencil: #5d6875; --red: #c62f36; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --paper: #141a22; --grid: #1e2833; --ink: #c9d7ef; --pencil: #8b97a6; --red: #ff6b6b; } }
+:root[data-theme="dark"] { --paper: #141a22; --grid: #1e2833; --ink: #c9d7ef; --pencil: #8b97a6; --red: #ff6b6b; }
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; background-color: var(--paper); color: var(--ink);
+  background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 22px 22px; font: 17px/1.55 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+main { max-width: 860px; margin: 0 auto; padding: 28px 16px 40px; }
+h1 { font-size: clamp(28px, 6vw, 46px); line-height: 1.05; margin: 0 0 4px; letter-spacing: -0.01em; font-weight: 700; }
+.by { color: var(--pencil); margin: 0 0 20px; font-style: italic; }
+#pantalla { box-shadow: 0 1px 0 rgba(0,0,0,.08), 0 14px 30px -18px rgba(20,30,60,.5); border-radius: 6px; }
+.controls { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: center; margin: 14px 0 0; font: 15px/1.4 system-ui, sans-serif; color: var(--pencil); }
+.controls button { font: inherit; color: var(--ink); background: transparent; border: 1.5px solid var(--ink); border-radius: 3px; padding: 4px 12px; cursor: pointer; }
+.controls button:focus-visible, .controls input:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+.desc { max-width: 64ch; margin-top: 24px; white-space: pre-wrap; }
+footer { margin-top: 36px; color: var(--pencil); font: 13px/1.4 system-ui, sans-serif; display: flex; align-items: center; gap: 8px; }
+footer svg { width: 20px; height: 20px; flex: none; }
+__SCREENCSS__
+</style>
+</head>
+<body>
+<main>
+<h1>__TITLE__</h1>
+<p class="by">__AUTHOR__</p>
+<div id="pantalla"></div>
+<div class="controls">
+<button id="reiniciar" type="button">__RESTART__</button>
+<label><input id="alta" type="checkbox" checked> __HIRES__</label>
+<span>__HINT__</span>
+</div>
+<div class="desc">__DESC__</div>
+<footer>__LOGO__<span>__FOOTER__</span></footer>
+</main>
+<script type="application/json" id="juego">__GAME__</script>
+<script>__PLAYER__</script>
+</body>
+</html>

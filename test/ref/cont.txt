@@ -1,0 +1,17 @@
+Intro.Pulsa una tecla para continuar.{key}Room.
+También puedo ver:
+A coin
+
+>«METER LIBRO»
+IN44A sackEND51
+>«METER LIBRO»
+No tengo A book.
+>«SACAR LIBRO»
+He cogido A book.
+>«SACAR LIBRO»
+Ya tengo A book.
+>«SACAR MONEDA»
+He cogido A coin.
+>«METER MONEDA»
+IN44A sackEND51
+>

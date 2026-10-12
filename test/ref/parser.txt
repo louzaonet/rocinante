@@ -1,0 +1,100 @@
+Introducción.Pulsa una tecla para continuar.{key}Una habitación vacía.
+
+>«coger llave»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«coge la llave»
+LS=20 101 255 255 255 101 255 101 255
+No puedo hacer eso.
+>«cogela»
+No he entendido nada.
+>«cogelo»
+No he entendido nada.
+>«coger la llave dorada»
+LS=20 101 255 255 255 101 10 101 255
+No puedo hacer eso.
+>«coger llave roja»
+LS=20 101 11 255 255 255 255 101 11
+No puedo hacer eso.
+>«abrir puerta con llave»
+LS=40 102 255 255 9 101 255 102 255
+
+>«abrir la puerta con la llave dorada»
+LS=40 102 255 255 9 102 255 102 255
+
+>«coger llave y abrir puerta»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«coger llave. abrir puerta»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«coger llave, puerta»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«rapid coger llave»
+LS=20 101 255 2 255 255 255 101 255
+No puedo hacer eso.
+>«coger llave rapid»
+LS=20 101 255 2 255 255 255 101 255
+No puedo hacer eso.
+>«n»
+LS=2 2 255 255 255 255 255 101 255
+
+>«norte»
+LS=2 2 255 255 255 255 255 101 255
+
+>«ir al norte»
+LS=43 2 255 255 6 255 255 101 255
+
+>«al norte»
+LS=2 2 255 255 6 255 255 101 255
+
+>«llave»
+LS=255 101 255 255 255 255 255 101 255
+
+>«dorada»
+No he entendido nada.
+>«xyzzy»
+No he entendido nada.
+>«examinala»
+LS=30 101 255 255 255 255 255 101 255
+
+>«dale la moneda a juan»
+LS=41 101 255 255 2 104 255 101 255
+
+>«dale la moneda»
+LS=41 101 255 255 255 104 255 101 255
+
+>«dile a juan "abrir puerta"»
+LS=42 40 255 255 2 255 255 101 255
+
+>«dile a juan "xyzzy"»
+LS=42 40 255 255 2 255 255 102 255
+Juan no entiende.
+
+>«coger llave y moneda»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«coger todo menos la moneda»
+LS=20 20 255 255 13 101 255 101 255
+No puedo hacer eso.
+>«i»
+LS=14 14 255 255 255 255 255 101 255
+Llevo:
+Nada.Llevo puesto:Nada.
+>«coger»
+LS=20 255 255 255 255 255 255 101 255
+Aquí no hay nada de eso.
+>«COGER LLAVE»
+LS=20 101 255 255 255 255 255 101 255
+No puedo hacer eso.
+>«Coger Llave dorada»
+LS=20 101 10 255 255 255 255 101 10
+No puedo hacer eso.
+>«abrir»
+LS=40 255 255 255 255 255 255 101 10
+
+>«puerta»
+LS=255 102 255 255 255 255 255 101 10
+
+>

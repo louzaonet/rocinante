@@ -1,0 +1,22 @@
+Intro.Pulsa una tecla para continuar.{key}Room.
+También puedo ver:
+A book.
+
+>«PRUEB LIBRO»
+1 1 3 101
+
+>«PRUEB NADA»
+255 0 0 102
+
+>«PRUEB»
+255 0 0 102
+
+>«PRUEB TODO MENOS LIBRO»
+255 0 0 101
+
+>«PRUEB TODO MENOS NADA»
+255 0 0 102
+
+>«NADA LIBRO»
+No puedo hacer eso.
+>

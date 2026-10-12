@@ -1,0 +1,72 @@
+PRUEBA
+
+Una aventura escrita con Rocinante.
+Pulsa una tecla.{key}Estás en una habitación vacía. Hay una puerta al norte.
+
+>«mirar»
+Estás en una habitación vacía. Hay una puerta al norte.
+
+>«i»
+Llevo:
+Nada.
+Llevo puesto:
+Nada.
+
+>«coger linterna»
+No veo eso por aquí.
+
+>«n»
+Un pasillo largo y oscuro. La habitación queda al sur.
+También hay aquí:
+Una linterna.
+
+>«coger linterna»
+Cojo la linterna.
+
+>«cogela»
+Ya tengo la linterna.
+
+>«i»
+Llevo:
+Una linterna.
+Llevo puesto:
+Nada.
+
+>«dejar todo»
+Dejo la linterna.
+
+>«coger todo y s»
+Cojo la linterna.
+Estás en una habitación vacía. Hay una puerta al norte.
+
+>«ex linterna»
+No veo nada especial.
+
+>«punto»
+Llevas 0 puntos.
+
+>«turno»
+Has dado 13 órdenes.
+
+>«xyzzy»
+No entiendo lo que quieres decir.
+
+>«o»
+No puedo ir por ahí.
+
+>«ponerse linterna»
+No puedo ponerme la linterna.
+
+>«abrir puerta»
+No puedo hacer eso.
+
+>«n. s. n. s»
+Un pasillo largo y oscuro. La habitación queda al sur.
+Estás en una habitación vacía. Hay una puerta al norte.
+Un pasillo largo y oscuro. La habitación queda al sur.
+Estás en una habitación vacía. Hay una puerta al norte.
+
+>«fin»
+¿Seguro? >«n»
+
+>

@@ -1,0 +1,283 @@
+Intro.Press any key to continue.
+{key}A dusty library.
+I can also see: 
+An old book
+Some boots
+A sack
+A new book
+an apple
+Stone
+
+More...{key}What now?
+>«look»
+You see  and @ looks at you.
+Ref: .
+Ref: @.
+
+What now?
+>«i»
+I have with me:
+The map
+I am wearing:
+Some gloves. They are torn
+
+What now?
+>«look book»
+I can also see: an old book, some boots, a sack, a new book, an apple and stone.
+
+the map.
+
+
+What now?
+>«get book»
+I now have the old book.
+
+What now?
+>«get old book»
+I already have the old book.
+What now?
+>«i»
+I have with me:
+An old book
+The map
+I am wearing:
+Some gloves. They are torn
+
+What now?
+>«get all»
+I now have the boots.
+I now have the sack.
+I can't carry any more things.
+What now?
+>«i»
+I have with me:
+An old book
+Some boots
+A sack
+The map
+I am wearing:
+Some gloves. They are torn
+
+More...{key}What now?
+>«look book»
+I can also see: a new book, an apple and stone.
+
+an old book, some boots, a sack and the map.
+
+
+What now?
+>«drop all»
+I've dropped the old book.
+I've dropped the boots.
+I've dropped the sack.
+I've dropped the map.
+
+What now?
+>«look»
+You see  and @ looks at you.
+Ref: .
+Ref: @.
+
+What now?
+>«get boots»
+I now have the boots.
+
+What now?
+>«wear boots»
+I'm now wearing the boots.
+
+What now?
+>«i»
+I have with me:
+Nothing.
+I am wearing:
+Some boots
+Some gloves. They are torn
+
+What now?
+>«remove boots»
+I've removed the boots.
+
+What now?
+>«remove glove»
+I've removed the gloves.
+
+What now?
+>«get sack»
+I now have the sack.
+
+What now?
+>«inser map»
+I don't have the map.
+
+What now?
+>«takeo coin»
+I now have the gold coin.
+
+What now?
+>«takeo coin»
+I already have the gold coin.
+What now?
+>«x map»
+You see map and @ looks at you.
+Ref: map.
+Ref: @.
+
+What now?
+>«examine glove»
+You see gloves and @ looks at you.
+Ref: gloves.
+Ref: @.
+
+What now?
+>«examine new book»
+I can also see: an old book, the map, a new book, an apple and stone.
+
+some boots, a sack, a gold coin and some gloves.
+
+
+What now?
+>«x apple»
+You see apple and @ looks at you.
+Ref: apple.
+Ref: @.
+
+What now?
+>«x stone»
+You see  and @ looks at you.
+Ref: .
+Ref: @.
+
+What now?
+>«get torch»
+There isn't one of those here.
+What now?
+>«s»
+Square.
+I can also see: 
+Ancient vase
+Theatre ticket
+Someone's hat
+A
+AN EMERALD
+a  bell
+More...{key}Two coins
+the Some thing
+A.B.
+
+What now?
+>«look book»
+I can also see: ancient vase, theatre ticket, someone's hat, a, aN EMERALD, a  bell, two coins, the Some thing and a.
+
+some boots, a sack, a gold coin and some gloves.
+
+
+More...{key}What now?
+>«x vase»
+You see vase and @ looks at you.
+Ref: vase.
+Ref: @.
+
+What now?
+>«x ticket»
+You see ticket and @ looks at you.
+Ref: ticket.
+Ref: @.
+
+What now?
+>«x hat»
+You see hat and @ looks at you.
+Ref: hat.
+Ref: @.
+
+What now?
+>«x lette»
+You see  and @ looks at you.
+Ref: .
+Ref: @.
+
+What now?
+>«x emerald»
+You see EMERALD and @ looks at you.
+Ref: EMERALD.
+Ref: @.
+
+What now?
+>«x bell»
+You see bell and @ looks at you.
+Ref: bell.
+Ref: @.
+
+What now?
+>«x coins»
+You see coins and @ looks at you.
+Ref: coins.
+Ref: @.
+
+What now?
+>«x thing»
+You see Some thing and @ looks at you.
+Ref: Some thing.
+Ref: @.
+
+What now?
+>«x ab»
+You see  and @ looks at you.
+Ref: .
+Ref: @.
+
+What now?
+>«get hat»
+I can't carry any more things.
+What now?
+>«get ab»
+I can't carry any more things.
+What now?
+>«get lette»
+I can't carry any more things.
+What now?
+>«get bell»
+I can't carry any more things.
+What now?
+>«i»
+I have with me:
+Some boots
+A sack
+A gold coin
+Some gloves. They are torn
+I am wearing:
+Nothing.
+
+More...{key}What now?
+>«n»
+A dusty library.
+I can also see: 
+An old book
+The map
+A new book
+an apple
+Stone
+
+More...{key}What now?
+>«drop sack»
+I've dropped the sack.
+
+What now?
+>«get all»
+I now have the old book.
+I can't carry any more things.
+What now?
+>«get all»
+I can't carry any more things.
+What now?
+>«i»
+I have with me:
+An old book
+Some boots
+A gold coin
+Some gloves. They are torn
+I am wearing:
+Nothing.
+
+More...{key}What now?
+>

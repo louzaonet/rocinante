@@ -1,0 +1,28 @@
+Intro.Press any key to continue.
+{key}Room.
+I can also see: 
+A coin
+
+What now?
+>«INSER BOOK»
+IN44sackEND51
+What now?
+>«INSER BOOK»
+I don't have the book.
+
+What now?
+>«TAKEO BOOK»
+I now have the book.
+
+What now?
+>«TAKEO BOOK»
+I already have the book.
+What now?
+>«TAKEO COIN»
+I now have the coin.
+
+What now?
+>«INSER COIN»
+IN44sackEND51
+What now?
+>

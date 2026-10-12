@@ -1,0 +1,75 @@
+TEST
+
+An adventure written with Rocinante.
+Press any key.{key}You are in an empty room. There is a door to the north.
+
+>«look»
+You are in an empty room. There is a door to the north.
+
+>«i»
+I'm carrying:
+Nothing.
+I'm wearing:
+Nothing.
+
+>«get torch»
+I can't see that here.
+
+>«n»
+A long, dark corridor. The room is to the south.
+I can also see:
+A torch.
+
+>«get torch»
+I take the torch.
+
+>«get it»
+I already have the torch.
+
+>«i»
+I'm carrying:
+A torch.
+I'm wearing:
+Nothing.
+
+>«drop all»
+I drop the torch.
+
+>«get all and s»
+I take the torch.
+You are in an empty room. There is a door to the north.
+
+>«x torch»
+I see nothing special.
+
+>«score»
+You have 0 points.
+
+>«turns»
+You have typed 13 commands.
+
+>«xyzzy»
+I don't understand.
+
+>«w»
+I can't go that way.
+
+>«wear torch»
+I can't wear the torch.
+
+>«open door»
+I can't do that.
+
+>«n. s. n. s»
+A long, dark corridor. The room is to the south.
+You are in an empty room. There is a door to the north.
+A long, dark corridor. The room is to the south.
+You are in an empty room. There is a door to the north.
+
+>«put torch in torch»
+I can't do that.
+
+>«quit»
+Are you sure? >«n»
+
+>

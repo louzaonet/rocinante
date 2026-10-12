@@ -1,0 +1,125 @@
+Intro.Pulsa una tecla para continuar.{key}Una sala.
+También puedo ver:
+Un libro viejo
+El mapa
+Una vela
+Una caja
+
+>«uno»
+no
+
+>«dos»
+no
+
+>«coger libro»
+He cogido el libro viejo.
+>«coger mapa»
+He cogido El mapa.
+>«dos»
+[101]254
+[105]254
+sí
+
+>«tres»
+no
+
+>«cuatro»
+no
+
+>«cinco»
+-
+no
+
+>«seis»
+12345fin
+
+>«siete»
+255 0 513 202 201 201 7 2
+
+>«ocho»
+128 4 10 1 105 255
+
+>«nueve»
+También puedo ver:una vela y una caja.
+
+[un libro viejo y el mapa.
+]192
+
+>«diez»
+3 1 1 0 0 0 21 sísíno35 3
+
+>«once»
+5 4 254 4 2 1 1
+
+>«i»
+Llevo:
+Una piedra
+Llevo puesto:Nada.
+>«dejar todo»
+No puedo hacer eso.
+>«coger libro y mapa»
+Aquí no hay nada de eso.
+>«dejar libro, mapa»
+No tengo eso.
+
+>«coger libro. mapa»
+Aquí no hay nada de eso.
+>«i»
+Llevo:
+Una piedra
+Llevo puesto:Nada.
+>«dejar todo»
+No puedo hacer eso.
+>«coger libro y n»
+Aquí no hay nada de eso.
+>«doce»
+no
+
+>«dejar libro»
+No tengo eso.
+
+>«n»
+Norte.
+
+>«doce»
+no
+
+>«doce»
+no
+
+>«s»
+Una sala.
+También puedo ver:
+Una vela
+Una caja
+
+>«cogerlo»
+Aquí no hay nada de eso.
+>«examinalo»
+sí30 101 255
+
+>«examinalos»
+sí30 101 255
+
+>«examinale»
+sí30 255 255
+
+>«examinarlo»
+sí30 101 255
+
+>«nieve»
+sí30 30 255
+
+>«ex nieve»
+sí30 30 255
+
+>«coger todo»
+He cogido la vela.La caja pesa demasiado para mí.
+>«coger todo menos el mapa»
+La caja pesa demasiado para mí.
+>«i»
+Llevo:
+Una vela
+Una piedra
+Llevo puesto:Nada.
+>

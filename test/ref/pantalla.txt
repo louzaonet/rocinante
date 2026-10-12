@@ -1,0 +1,37 @@
+Introducción.Pulsa una tecla para continuar.{key}Una habitación vacía.
+
+>«uno»
+Texto de prueba en una ventana pequeña que obliga a partir muchas palabras.
+Hay más...{key}Una palabraextremadamentelargaquenocabeenningunalineadelaventana y más.
+
+>«dos»
+xxxxx
+>«tres»
+Linea uno
+Linea dos
+
+Linea cuatro
+Antes de esperar{0c}{key}después de esperar
+{0e}ABC{0f} abc
+
+>«cuatro»
+Borrar ahora:{0b}ya borrado.
+
+>«cinco»
+Este mensaje es bastante largo y sirve Hay más...{key}para llenar la ventana de texto varias Hay más...{key}veces seguidas hasta que aparezca Hay más...{key}el aviso de que hay más texto por Hay más...{key}leer, una y otra vez, sin parar, con muchas Hay más...{key}palabras de relleno que no dicen nada Hay más...{key}importante pero ocupan sitio en la pantalla Hay más...{key}del Spectrum.
+>«seis»
+Este mensaje es bastante largo y sirve para llenar la ventana de texto varias veces seguidas hasta que aparezca el aviso de que hay más texto por leer, una y otra vez, sin parar, con muchas palabras de relleno que no dicen nada importante pero ocupan sitio en la pantalla del Spectrum.
+
+Hay más...{key}>«siete»
+x
+
+>«mirar»
+Una habitación vacía.
+
+>«esto no se entiende de ninguna manera posible»
+No puedo ir en esa dirección.
+>«uno»
+Texto de prueba en una ventana pequeña que obliga a partir muchas palabras.
+Hay más...{key}Una palabraextremadamentelargaquenocabeenningunalineadelaventana y más.
+
+>

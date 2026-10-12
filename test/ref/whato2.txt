@@ -1,0 +1,40 @@
+PRUEBA
+
+Una aventura escrita con Rocinante.
+Pulsa una tecla.{key}Estás en una habitación vacía. Hay una puerta al norte.
+También hay aquí:
+Un saco
+
+>«probar libro»
+1 2
+
+>«probar saco»
+2 1
+
+>«probar moneda»
+3 2
+
+>«probar linterna»
+0 2
+
+>«probar llave»
+4 252
+
+>«n»
+Un pasillo largo y oscuro. La habitación queda al sur.
+También hay aquí:
+Una linterna.
+Un libro
+Una moneda
+Otra llave
+
+>«probar libro»
+1 2
+
+>«probar moneda»
+3 2
+
+>«probar llave»
+5 2
+
+>
